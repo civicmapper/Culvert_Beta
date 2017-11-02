@@ -1,0 +1,6 @@
+*.pyc
+/ENV
+
+*.komodoproject
+
+*.egg-info/
